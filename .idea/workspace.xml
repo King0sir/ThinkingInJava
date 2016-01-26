@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="590ef134-799b-40ac-9951-45c20262cf7e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SimpleProxyDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="study0.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Sandwich.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448968875367" ignored="false" />
     <file path="/fragment.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451543525089" ignored="false" />
-    <file path="/Dummy.txt" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453780682733" ignored="false" />
+    <file path="/Dummy.txt" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453788003768" ignored="false" />
     <file path="/Forg.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448971780762" ignored="false" />
     <file path="/ReferenceCounting.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448973127266" ignored="false" />
     <file path="/PolyConstructors.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448974049652" ignored="false" />
@@ -409,6 +408,7 @@
     <file path="/ForNameCreator.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453441938026" ignored="false" />
     <file path="$PROJECT_DIR$/../../join/src/main/java/登录.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453780699847" ignored="false" />
     <file path="/SimpleProxyDemo.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453787830390" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_use/src/main/profiles/beta/config.properties" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453788933108" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -477,7 +477,7 @@
       <file leaf-file-name="SimpleProxyDemo.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SimpleProxyDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="53" selection-start="1135" selection-end="1135" vertical-scroll-proportion="0.98761064">
+            <state line="36" column="21" selection-start="932" selection-end="932" vertical-scroll-proportion="0.6336283">
               <folding />
             </state>
           </provider>
@@ -1078,7 +1078,11 @@
       <created>1453780200974</created>
       <updated>1453780200974</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="不知道什么玩意">
+      <created>1453788006470</created>
+      <updated>1453788006470</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1281,7 +1285,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SimpleProxyDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="53" selection-start="1135" selection-end="1135" vertical-scroll-proportion="0.98761064">
+        <state line="36" column="21" selection-start="932" selection-end="932" vertical-scroll-proportion="0.6336283">
           <folding />
         </state>
       </provider>

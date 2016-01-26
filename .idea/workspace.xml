@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="590ef134-799b-40ac-9951-45c20262cf7e" name="Default" comment="" />
+    <list default="true" id="590ef134-799b-40ac-9951-45c20262cf7e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SimpleProxyDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="study0.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Sandwich.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448968875367" ignored="false" />
     <file path="/fragment.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451543525089" ignored="false" />
-    <file path="/Dummy.txt" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453780200022" ignored="false" />
+    <file path="/Dummy.txt" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453780682733" ignored="false" />
     <file path="/Forg.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448971780762" ignored="false" />
     <file path="/ReferenceCounting.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448973127266" ignored="false" />
     <file path="/PolyConstructors.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448974049652" ignored="false" />
@@ -404,7 +407,8 @@
     <file path="/RiskAccControlAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452164733035" ignored="false" />
     <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/riskAccControl/updatePage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452164816257" ignored="false" />
     <file path="/ForNameCreator.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453441938026" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453780192771" ignored="false" />
+    <file path="$PROJECT_DIR$/../../join/src/main/java/登录.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453780699847" ignored="false" />
+    <file path="/SimpleProxyDemo.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453787830390" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -469,7 +473,17 @@
     <favorites_list name="study0" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="SimpleProxyDemo.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SimpleProxyDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="53" selection-start="1135" selection-end="1135" vertical-scroll-proportion="0.98761064">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -488,7 +502,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter13/test01/UsingStringBuilder.java" />
         <option value="$PROJECT_DIR$/src/ThinkingInJava/example/Coffee.java" />
         <option value="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/Breve.java" />
         <option value="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/coffee/Breve.java" />
@@ -504,6 +517,7 @@
         <option value="$PROJECT_DIR$/src/ThinkingInJava/study/text0/BigDecimalTest.java" />
         <option value="$PROJECT_DIR$/src/ThinkingInJava/example/pets/Cat.java" />
         <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/ForNameCreator.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SimpleProxyDemo.java" />
       </list>
     </option>
   </component>
@@ -566,15 +580,81 @@
               <option name="myItemId" value="study0" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+              <option name="myItemId" value="study0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="study0" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleProxyDemo.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -612,29 +692,7 @@
       <recent name="D:\MyWorkSpace\study0\src\ThinkingInJava\example\coffee" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BigDecimalTest">
-    <configuration default="false" name="MapTest" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ThinkingInJava.study.text0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.study.text0.MapTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="study0" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.SimpleProxyDemo">
     <configuration default="false" name="StringAna" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -709,6 +767,34 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ThinkingInJava.study.text0.BigDecimalTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="study0" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimpleProxyDemo" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ThinkingInJava.chapter14.text0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.chapter14.text0.SimpleProxyDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -956,19 +1042,19 @@
       <item index="0" class="java.lang.String" itemvalue="Application.UsingStringBuilder" />
       <item index="1" class="java.lang.String" itemvalue="Application.NullTest" />
       <item index="2" class="java.lang.String" itemvalue="Application.Image" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MapTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.StringAna" />
-      <item index="5" class="java.lang.String" itemvalue="Application.ArrayListDisplay" />
-      <item index="6" class="java.lang.String" itemvalue="Application.InstantiateGenericType" />
-      <item index="7" class="java.lang.String" itemvalue="Application.BigDecimalTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.StringAna" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ArrayListDisplay" />
+      <item index="5" class="java.lang.String" itemvalue="Application.InstantiateGenericType" />
+      <item index="6" class="java.lang.String" itemvalue="Application.BigDecimalTest" />
+      <item index="7" class="java.lang.String" itemvalue="Application.SimpleProxyDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BigDecimalTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.StringAna" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ArrayListDisplay" />
-        <item index="3" class="java.lang.String" itemvalue="Application.InstantiateGenericType" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MapTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SimpleProxyDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BigDecimalTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.StringAna" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ArrayListDisplay" />
+        <item index="4" class="java.lang.String" itemvalue="Application.InstantiateGenericType" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -996,15 +1082,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295838" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3989071" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3982002" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -1105,16 +1191,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_66/src.zip!/java/util/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="176" column="11" selection-start="6828" selection-end="6828" vertical-scroll-proportion="-3.6349206" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/study/text0/UnknowCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="26" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/study/text0/MapTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="56" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0" />
@@ -1176,8 +1252,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="85" selection-start="919" selection-end="919" vertical-scroll-proportion="0.679646">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#450#472#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#450#472#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1192,6 +1268,20 @@
     <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter13/test01/Turtle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="23" selection-start="248" selection-end="248" vertical-scroll-proportion="0.57522124">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SimpleProxyDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="53" selection-start="1135" selection-end="1135" vertical-scroll-proportion="0.98761064">
           <folding />
         </state>
       </provider>

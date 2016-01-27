@@ -55,6 +55,6 @@ public class PetCount {
     }
 
     public static void main(String[] args) {
-        countPets(new ForNameCreator());
+//        countPets(new ForNameCreator());
     }
 }

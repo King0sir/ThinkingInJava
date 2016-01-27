@@ -1,7 +1,8 @@
 //: ThinkingInJava.chapter14.test01/pets/ForNameCreator.java
 package ThinkingInJava.example;
-import ThinkingInJava.chapter14.test01.Pet;
-import ThinkingInJava.chapter14.test01.PetCreator;
+
+import ThinkingInJava.chapter14.text0.Pet;
+import ThinkingInJava.chapter14.text0.PetCreator;
 
 import java.util.*;
 

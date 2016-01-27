@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="590ef134-799b-40ac-9951-45c20262cf7e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="study0.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Sandwich.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448968875367" ignored="false" />
+    <file path="/fragment.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451543525089" ignored="false" />
+    <file path="/Dummy.txt" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453893348511" ignored="false" />
+    <file path="/Forg.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448971780762" ignored="false" />
+    <file path="/ReferenceCounting.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448973127266" ignored="false" />
+    <file path="/PolyConstructors.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448974049652" ignored="false" />
+    <file path="/CovariantReturn.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448974815522" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_service/src/main/java/com/account/core/socket/req/T6006Request.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449037649252" ignored="false" />
+    <file path="/T6006Request.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449037047239" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/resources/reportReqTml/T6006Request.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449037734925" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/resources/reportReqTml/T6006Request.tld" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449037284535" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/resources/reportReqTml/2.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449037325233" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_service/src/main/java/com/account/core/socket/resp/T6006Response.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449038131852" ignored="false" />
+    <file path="/T6006Response.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449038118821" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/resources/reportRespTml/T6006Response.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449038359642" ignored="false" />
+    <file path="/T6006Response.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449038348086" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_service/src/main/java/com/account/core/socket/req/T6007Request.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449039087663" ignored="false" />
+    <file path="/T6007Request.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449039041677" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/resources/reportReqTml/T6007Request.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449039389165" ignored="false" />
+    <file path="/T6007Request.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449039386428" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_service/src/main/java/com/account/core/socket/resp/T6007Response.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449039606081" ignored="false" />
+    <file path="/T6007Response.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449039597915" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/resources/reportRespTml/T6007Response.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449039691069" ignored="false" />
+    <file path="/T6007Response.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449039686303" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_service/src/main/java/com/account/core/socket/req/T6008Request.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449039877329" ignored="false" />
+    <file path="/T6008Request.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449039867436" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/resources/reportReqTml/T6008Request.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449039975956" ignored="false" />
+    <file path="/T6008Request.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449039973321" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_service/src/main/java/com/account/core/socket/resp/T6008Response.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449040059692" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/resources/reportRespTml/T6008Response.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449040091720" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_service/src/main/java/com/account/core/socket/req/T5007Request.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041376462" ignored="false" />
+    <file path="/T5007Request.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041047134" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/resources/reportReqTml/T5007Request.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041387109" ignored="false" />
+    <file path="/T5007Request.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041100916" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_service/src/main/java/com/account/core/socket/resp/T5007Response.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041362379" ignored="false" />
+    <file path="/T5007Response.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041194589" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/resources/reportRespTml/T5007Response.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041343886" ignored="false" />
+    <file path="/T5007Response.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041335815" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_service/src/main/java/com/account/core/socket/req/T5004Request.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041553424" ignored="false" />
+    <file path="/T5004Request.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041541458" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/resources/reportReqTml/T5004Request.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041650596" ignored="false" />
+    <file path="/T5004Request.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041646315" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_service/src/main/java/com/account/core/socket/resp/T5004Response.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041725435" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/resources/reportRespTml/T5004Response.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041749055" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/java/com/account/core/wio/server/BizHttpsService.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041936841" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_service/src/main/java/com/account/core/socket/SocketClientFactory.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041936841" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/resources/reportReqTml/T2001Request.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041936841" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_service/src/main/java/com/account/core/socket/ReportCommunicator.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449041936841" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/test/java/com/account/test/tempTest.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449046694378" ignored="false" />
+    <file path="/tempTest.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449046689068" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/java/com/account/core/wio/server/biz/VirtualAccTransferBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449114035483" ignored="false" />
+    <file path="/VirtualAccTransferBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449048141985" ignored="false" />
+    <file path="/Transmogrify.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449056253210" ignored="false" />
+    <file path="/RTTI.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449057541793" ignored="false" />
+    <file path="/Music4.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449058548378" ignored="false" />
+    <file path="/Apply.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449061873629" ignored="false" />
+    <file path="/Waveform.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449060500284" ignored="false" />
+    <file path="/Filter.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449060582336" ignored="false" />
+    <file path="/LowPass.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449060719685" ignored="false" />
+    <file path="/HighPass.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449060822587" ignored="false" />
+    <file path="/BandPass.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449060968993" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/chapter8/test01/Processor.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449061523712" ignored="false" />
+    <file path="/Processor.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449061611093" ignored="false" />
+    <file path="/StringProcessor.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449061997128" ignored="false" />
+    <file path="/FilterProcessor.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449062425285" ignored="false" />
+    <file path="/NullTest.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449114139417" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/java/com/account/core/wio/server/biz/AccountBalanceTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449114280703" ignored="false" />
+    <file path="/AccountBalanceTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449111681209" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/java/com/account/core/wio/server/biz/AccountOpenBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449114315903" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/java/com/account/core/wio/server/biz/AccountOperationBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449114371178" ignored="false" />
+    <file path="$PROJECT_DIR$/../account_core/account_core_handle/src/main/java/com/account/core/wio/server/biz/EntrustRechargeTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449114607376" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_agentpay/src/main/profiles/product/logback.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123357885" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_agentpay/src/main/resources/mybatis.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451543042243" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_agentpay/src/main/resources/META-INF/spring/spring.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123357885" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_agentpay/src/main/profiles/beta/logback.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123357885" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_agentpay/src/main/assembly/assembly.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123357885" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_agentpay/src/main/resources/META-INF/spring/inService.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123357885" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_agentpay/pom.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123357885" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_agentpay/src/main/profiles/dev/logback.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123357885" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_bacth/src/main/profiles/dev/logback.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123408210" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_bacth/src/main/profiles/product/logback.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123408210" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_bacth/src/main/resources/mybatis.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451543054207" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_bacth/src/main/profiles/beta/logback.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123408210" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_bacth/src/main/assembly/assembly.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123408210" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_bacth/src/main/resources/META-INF/spring/spring.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123408210" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_bacth/src/main/resources/META-INF/spring/spring-taskswork-config.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123408210" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_bacth/pom.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123408210" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_consumer/src/main/resources/generatorConfig.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123431765" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_consumer/pom.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123431765" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/OpUserRoleMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/CusCostMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/CardBinMapperEx.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/RecordMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450421232276" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/OpFunctionMapperEx.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450421575022" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/CusAccountMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/CusRecordMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/CusCardMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/WhiteMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/DsLockMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/RecordMapperEx.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/CusAdapterMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/BranchMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/CardMapperEx.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/RechargeRecordMapperEx.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/OpUserMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/OpFunctionRoleMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/pom.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/AccSpecialMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/AgRecordMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/AgWhiteCardMapperEx.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/MerchantMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/AccountMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/OpUserMapperEx.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/SubOrgMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/OrgRecordMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/RechargeRecordMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/AgLedgerRecordMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/OpIdenCodeMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/CardBinMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/IdenCodeMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/MerchantMapperEx.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451465336285" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/MerchantRealNameMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/AgWhiteCardMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/OpRoleMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/OrderMapperEx.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/MatchingMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/AccountMapperEx.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/ChannelMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/OpFunctionMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123445258" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/web.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449128069689" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_service/pom.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123463021" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_unify/src/main/profiles/beta/logback.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123468344" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_unify/src/main/resources/META-INF/spring/spring.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123468344" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_unify/pom.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123468344" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_unify/src/main/assembly/assembly.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123468344" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_unify/src/main/resources/META-INF/spring/inService.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123468344" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_unify/src/main/profiles/dev/logback.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123468344" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_unify/src/main/profiles/product/logback.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123468344" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_unify/src/main/resources/mybatis.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451542999227" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_use/src/main/resources/dubbo.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123477375" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_use/src/main/profiles/beta/logback.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123477375" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_use/src/main/resources/logback.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123477375" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_use/src/main/profiles/product/logback.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123477375" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_use/src/main/webapp/WEB-INF/web.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123477375" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_use/src/main/resources/spring.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123477375" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_use/src/main/resources/log4j.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123477375" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_use/src/main/profiles/dev/logback.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123477375" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_use/src/main/resources/mybatis.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451543020620" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_use/pom.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123477375" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_use/src/main/resources/springmvc.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449123477375" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/action/LoginAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450420413210" ignored="false" />
+    <file path="/Image.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449135637729" ignored="false" />
+    <file path="/Adventure.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449143888557" ignored="false" />
+    <file path="/HorrorShow.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449144456111" ignored="false" />
+    <file path="/InterfaceCollision.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449144757018" ignored="false" />
+    <file path="/RandomWords.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449145975430" ignored="false" />
+    <file path="/RandomDoubles.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449146151265" ignored="false" />
+    <file path="/AdaptedRandomDoubles.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449146417841" ignored="false" />
+    <file path="/Months.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449146958517" ignored="false" />
+    <file path="/RandVals.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449147137343" ignored="false" />
+    <file path="/TestRandVals.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449147232688" ignored="false" />
+    <file path="/NestingInterfaces.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449147630842" ignored="false" />
+    <file path="/Factories.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1449148045825" ignored="false" />
+    <file path="/InheritingExceptions.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450095478363" ignored="false" />
+    <file path="/FullConstructors.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450096014909" ignored="false" />
+    <file path="/LoggingExceptions.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450096333485" ignored="false" />
+    <file path="/LoggingExceptions2.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450096712701" ignored="false" />
+    <file path="/ExtraFeatures.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450097056226" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/common/LoginFilter.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450420224459" ignored="false" />
+    <file path="/LoginFilter.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450420220209" ignored="false" />
+    <file path="/a.dummy" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453807706215" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/resources/spring.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450165161197" ignored="false" />
+    <file path="/spring.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450165158916" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/common/AuthorizeCheck.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450418719881" ignored="false" />
+    <file path="/AuthorizeCheck.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450418719881" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/java/com/ipaynow/merchant/dao/OpFunctionMapperEx.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450166492322" ignored="false" />
+    <file path="/OpFunctionMapperEx.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450166487334" ignored="false" />
+    <file path="/OpFunctionMapperEx.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450421557119" ignored="false" />
+    <file path="/StringAna.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451473016321" ignored="false" />
+    <file path="/NeverCaught.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450176684371" ignored="false" />
+    <file path="/RcmerchantService.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451557520556" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/service/impl/RcmerchantService.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451557520556" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/action/RiskControlAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450428085843" ignored="false" />
+    <file path="/RiskControlAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450428085843" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/service/IRcMerchantService.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451556932754" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/riskControl/updatePage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450428094417" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/dto/RcMerchantRule.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450351814240" ignored="false" />
+    <file path="/RcMerchantRule.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450351899717" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/dto/RcMerchantRuleDTO.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450351920044" ignored="false" />
+    <file path="/FinallyWorks.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450354254883" ignored="false" />
+    <file path="/AlwaysFinally.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450354650443" ignored="false" />
+    <file path="/MultipleReturns.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450354877667" ignored="false" />
+    <file path="/LostMessage.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450355133315" ignored="false" />
+    <file path="/ExceptionSilencer.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450355264706" ignored="false" />
+    <file path="/StormyInning.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450355692145" ignored="false" />
+    <file path="/InputFile.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450356186555" ignored="false" />
+    <file path="/Cleanup.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450356601740" ignored="false" />
+    <file path="/Human.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450356882974" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/action/FunMangerAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450406933344" ignored="false" />
+    <file path="/FunMangerAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450406932952" ignored="false" />
+    <file path="/IntSuper.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450407308168" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/role/toGrantFuncToRole.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450409985943" ignored="false" />
+    <file path="/toGrantFuncToRole.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450409985943" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/agentpay/util/Validate.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451558148152" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/RcMerchantSumAmtMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450419072289" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/action/AgTransAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450432235045" ignored="false" />
+    <file path="/UserConfig.properties" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450419888959" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/resources/UserConfig.properties" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450419895745" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/common/UserConfig.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450420196232" ignored="false" />
+    <file path="/UserConfig.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450420170619" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_agentpay/src/main/resources/yeeSendSMS_config.properties" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450420187863" ignored="false" />
+    <file path="/HomeAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450420374075" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/action/HomeAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450420376546" ignored="false" />
+    <file path="/LoginAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450420412239" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_domain/src/main/java/com/ipaynow/merchant/domain/Record.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450431315079" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/common/AccountAmtDeal.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450421770923" ignored="false" />
+    <file path="/AccountAmtDeal.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450421759524" ignored="false" />
+    <file path="/IRcMerchantService.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451556932754" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/user/adminPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450426730775" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/user/updatePage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450426689225" ignored="false" />
+    <file path="/updatePage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452164816257" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/function/adminPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450426382259" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/function/updatePage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450425899908" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/role/adminPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451528760270" ignored="false" />
+    <file path="/adminPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452076998897" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/identifyWhite/adminPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450426943493" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/identifyWhite/updatePage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450427002378" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/openAcc/adminPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450427726766" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/action/OpenAccAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450952598878" ignored="false" />
+    <file path="/OpenAccAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450952578674" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/include/merchant.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451550230861" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/merEmpower/adminPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450427759554" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/action/MerEmpowerAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450427845208" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/riskControl/adminPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450428166633" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/agTrans/adminPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450432642717" ignored="false" />
+    <file path="/AgTransAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450432233266" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/bank/impl/EntrustChinaMinShengBank.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450431315079" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/agentpay/cus/DaiPaymentImpl.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450431315079" ignored="false" />
+    <file path="/UnknowCode.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450938653155" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/merchant/SysData.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450929067114" ignored="false" />
+    <file path="/Test.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450940513627" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_agentpay/src/main/java/com/ipaynow/agentpay/server/Test.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450940559948" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/src/agentPay/代付.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450940950399" ignored="false" />
+    <file path="F:/new/代收代付/model/.idea/workspace.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1450953159630" ignored="false" />
+    <file path="/merchant.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451550228706" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_agentpay/.idea/workspace.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452166276131" ignored="false" />
+    <file path="/MapTest.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451442468026" ignored="false" />
+    <file path="/WhitherStringBuilder.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451445695171" ignored="false" />
+    <file path="/UsingStringBuilder.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451445991881" ignored="false" />
+    <file path="/ArrayListDisplay.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458910693" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/decorator/Decoration.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/watercolors/Watercolors.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/UnboundedWildcards1.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/UnboundedWildcards2.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/CompilerIntelligence.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/CovariantReturnTypes.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/NonCovariantGenerics.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/PrimitiveGenericTest.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ErasedTypeEquivalence.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ErasureAndInheritance.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/GenericsAndCovariance.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ThrowGenericException.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/GenericsAndReturnTypes.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/InstantiateGenericType.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ArrayOfGenericReference.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/PlainGenericInheritance.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/RestrictedComparablePets.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/CuriouslyRecurringGeneric.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ExplicitTypeSpecification.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/GenericArrayWithTypeToken.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/MultipleInterfaceVariants.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/SelfBoundingAndCovariantArguments.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/coffee/Breve.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/coffee/Latte.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/coffee/Mocha.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/coffee/Coffee.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/coffee/Americano.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/coffee/Cappuccino.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/coffee/CoffeeGenerator.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Fill.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/HasF.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Apply.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Fill2.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Store.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Erased.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Holder.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Mixins.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ByteSet.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Holder1.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Holder2.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Holder3.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/UseList.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Performs.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/UseList2.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Fibonacci.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ListMaker.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ListOfInt.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/TupleList.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/TupleTest.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Wildcards.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ArrayMaker.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/BankTeller.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/EpicBattle.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Functional.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Generators.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/RandomList.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/TupleTest2.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/BasicBounds.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859864" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/BasicHolder.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/CheckedList.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/GenericCast.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/LinkedStack.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/NeedCasting.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/SimpleQueue.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/SimplerPets.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ClassCasting.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/GenericArray.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Manipulation.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Manipulator2.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Manipulator3.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/SelfBounding.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/SimpleHolder.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ComparablePet.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/CountedObject.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/DogsAndRobots.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/GenericArray2.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/GenericHolder.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/InheritBounds.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/Unconstrained.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ArrayOfGeneric.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/CreatorGeneric.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/GenericMethods.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/GenericReading.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/GenericVarargs.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/GenericWriting.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ListOfGenerics.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/NotSelfBounded.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/WatercolorSets.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/CovariantArrays.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/FilledListMaker.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/LostInformation.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ClassTypeCapture.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/LatentReflection.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/CaptureConversion.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/DynamicProxyMixin.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/FactoryConstraint.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/HijackedInterface.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/IterableFibonacci.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/LimitsOfInference.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/OrdinaryArguments.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/ReturnGenericType.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/BasicGeneratorDemo.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/CRGWithBasicHolder.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/SuperTypeWildcards.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/SelfBoundingMethods.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/coffee/generics/SimpleDogsAndRobots.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458859865" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/generics/decorator/Decoration.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458872691" ignored="false" />
+    <file path="$PROJECT_DIR$/src/ThinkingInJava/example/generics/watercolors/Watercolors.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451458872691" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/wio/util/AgAccountUtil.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451531632502" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/agentpay/util/AdapterInteractiveUtil.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451531632502" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/agentpay/util/AgPackages.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451531632502" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/agentpay/util/AgUnPackages.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451531632502" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/action/MerAccEmpowerAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452165497347" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/merAccEmpower/adminPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451551879664" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/resources/mybatis.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451547691642" ignored="false" />
+    <file path="/mybatis.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451547691642" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/wio/util/MerchantUtil.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451543470377" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/java/com/ipaynow/merchant/dao/RcAccountRuleExMapper.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451543521934" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/java/com/ipaynow/merchant/dao/RcAccountRuleMapperEx.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451557458879" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_dao/src/main/resources/mappers/RcAccountRuleMapperEx.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451557449394" ignored="false" />
+    <file path="/RcAccountRuleMapperEx.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451557449034" ignored="false" />
+    <file path="/RcAccountRuleMapperEx.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451557458879" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_domain/src/main/java/com/ipaynow/merchant/po/MerAccEmpowerPo.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451545483581" ignored="false" />
+    <file path="/MerAccEmpowerPo.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451545475462" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_domain/src/main/java/com/ipaynow/merchant/domain/Account.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451545559306" ignored="false" />
+    <file path="/MerAccEmpowerAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452165490959" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/merchant/server/dto/MerchantDTO.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451547115951" ignored="false" />
+    <file path="/MerchantDTO.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451547104710" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/service/IRcMerAccService.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451547347203" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/service/impl/RcMerAccService.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451547581530" ignored="false" />
+    <file path="/RcMerAccService.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451547578869" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/merAccEmpower/ukeyAuthPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452166040930" ignored="false" />
+    <file path="/ukeyAuthPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452166004250" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/service/impl/RechargeService.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451558148152" ignored="false" />
+    <file path="/Turtle.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451886206275" ignored="false" />
+    <file path="/BigDecimalTest.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452159073417" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_domain/src/main/java/com/ipaynow/merchant/jsonfmt/strenum/RateJsonSerializer.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452076271728" ignored="false" />
+    <file path="/RateJsonSerializer.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452075161629" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_domain/src/main/java/com/ipaynow/merchant/domain/Rate.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452077035772" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/merchantRate/adminPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452077006810" ignored="false" />
+    <file path="/Rate.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452077034868" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/action/MerchantRateAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452164562541" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/merchantRate/addPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452077549919" ignored="false" />
+    <file path="/addPage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452077549919" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_domain/src/main/java/com/ipaynow/merchant/po/RatePo.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452077796303" ignored="false" />
+    <file path="/MerchantRateAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452159255571" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/java/com/ipaynow/merchant/action/RiskAccControlAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452164908798" ignored="false" />
+    <file path="/RiskAccControlAction.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452164733035" ignored="false" />
+    <file path="$PROJECT_DIR$/../uy_merchant_new/merchant_operation/src/main/webapp/WEB-INF/jsp/riskAccControl/updatePage.jsp" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1452164816257" ignored="false" />
+    <file path="/ForNameCreator.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453441938026" ignored="false" />
+    <file path="$PROJECT_DIR$/../../join/src/main/java/登录.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453807609318" ignored="false" />
+    <file path="/SimpleProxyDemo.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453787830390" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_use/src/main/profiles/beta/config.properties" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453788933108" ignored="false" />
+    <file path="/SimpleDynamicProxy.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453803702534" ignored="false" />
+    <file path="$PROJECT_DIR$/../../join/src/main/java/预实名申请.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453796702307" ignored="false" />
+    <file path="$PROJECT_DIR$/../../join/src/main/java/实名认证.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453797514852" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/wio/util/ValidateUtil.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453798592735" ignored="false" />
+    <file path="/ValidateUtil.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453797438507" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_use/src/main/java/com/ipaynow/merchan/server/biz/RealNameBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453801021059" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_use/src/main/resources/mybatis.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453798495279" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_dao/src/main/resources/mappers/AreaMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="/AreaMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453799977396" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_use/src/main/java/com/ipaynow/merchan/server/biz/MerchantBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_use/src/main/java/com/ipaynow/merchan/server/biz/MerchantBatchBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_use/src/main/java/com/ipaynow/merchan/server/biz/SetPassBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_use/src/main/java/com/ipaynow/wio/merchant/MerSync.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453809496059" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_api/src/main/java/com/ipaynow/merchant/api/inner/itf/IMember.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_dao/src/main/resources/mappers/RcAccountSumAmtMapper.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/wio/util/MerchantUtil.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/rate/impl/RateMerchantService.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/server/biz/POSMchInfoBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/resources/META-INF/spring/inService.xml" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/server/biz/FinanceOpenBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/wio/util/AccountUtil.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_api/src/main/java/com/ipaynow/merchant/api/entity/ServiceResponse.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/server/biz/CardBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/server/biz/UnBindCardBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/server/biz/AccountInfoBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/server/biz/AccountBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/server/biz/TransferNoPasswdBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/server/biz/POSFileBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/server/biz/BindCardBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/server/biz/TransferBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/server/biz/WithdrawBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/server/biz/RecordBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/server/biz/QueryBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/merchant/api/impl/TradeService.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/merchant/server/impl/RecordService.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/bank/impl/EntrustChinaMinShengBank.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_unify/src/main/java/com/ipaynow/wio/merchant/inner/impl/AccountInnerImpl.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/merchant/server/impl/AccountService.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_service/src/main/java/com/ipaynow/merchant/server/impl/RecordServiceEx.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_use/src/main/java/com/ipaynow/merchan/server/biz/UpdatePassBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_use/src/main/java/com/ipaynow/merchan/server/biz/RealNameTokenBizTackler.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453800210187" ignored="false" />
+    <file path="/MerSync.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453809241336" ignored="false" />
+    <file path="/SelectingMethods.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453805070251" ignored="false" />
+    <file path="$PROJECT_DIR$/../../join/src/main/java/Packages.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453805106618" ignored="false" />
+    <file path="$PROJECT_DIR$/../../join/src/main/java/Unpack.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453805119476" ignored="false" />
+    <file path="$PROJECT_DIR$/../../join/src/main/java/查询.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453805799843" ignored="false" />
+    <file path="$PROJECT_DIR$/../../join/src/main/java/商户查询.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453805821419" ignored="false" />
+    <file path="$PROJECT_DIR$/../../join/src/main/java/修改密码.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453807721896" ignored="false" />
+    <file path="$PROJECT_DIR$/../../uy_merchant_new/merchant_agentpay/src/test/java/AgentPayStarter.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453809595145" ignored="false" />
+    <file path="/Operation.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453872910178" ignored="false" />
+    <file path="/Robot.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453873166630" ignored="false" />
+    <file path="/SnowRemovalRobot.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453873546878" ignored="false" />
+    <file path="/NullRobot.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453874263261" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/study0$Sandwich.coverage" NAME="Sandwich Coverage Results" MODIFIED="1448968506851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ThinkingInJava.chapter8.test01.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="study0" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="NullRobot.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/NullRobot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="30" selection-start="402" selection-end="402" vertical-scroll-proportion="0.61946905">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Robot.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/Robot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="17" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter13/test01/ArrayListDisplay.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/study/text0/StringAna.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter13/test01/Turtle.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/study/text0/BigDecimalTest.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/example/pets/Cat.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/ForNameCreator.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SimpleProxyDemo.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SimpleDynamicProxy.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SelectingMethods.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/Operation.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/Robot.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/SnowRemovalRobot.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/example/ForNameCreator.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/PetCount.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/NullRobot.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>XML</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NullRobot.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="Downloaded.Files.Path" value="D:\MyWorkSpace\study0\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyWorkSpace\study0\src\ThinkingInJava\example" />
+      <recent name="D:\MyWorkSpace\study0\src\ThinkingInJava\example\coffee" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SnowRemovalRobot">
+    <configuration default="false" name="StringAna" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ThinkingInJava.study.text0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.study.text0.StringAna" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="study0" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BigDecimalTest" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ThinkingInJava.study.text0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.study.text0.BigDecimalTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="study0" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimpleProxyDemo" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ThinkingInJava.chapter14.text0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.chapter14.text0.SimpleProxyDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="study0" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimpleDynamicProxy" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ThinkingInJava.chapter14.text0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.chapter14.text0.SimpleDynamicProxy" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="study0" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SnowRemovalRobot" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ThinkingInJava.chapter14.test02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.chapter14.test02.SnowRemovalRobot" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="study0" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.osmorc.OsgiConfigurationType" factoryName="OSGi Bundles" vmParameters="" programParameters="" includeAllBundlesInClassPath="false" workingDir="" useAlternativeJre="false" alternativeJrePath="" frameworkStartLevel="1" defaultStartLevel="5" generateWorkingDir="false">
+      <framework instance="" />
+      <additinalProperties startConsole="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="CfmlUnitRunConfigurationType" factoryName="MXUnit" method="" path="" scope="Component" webpath="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoogleAppEngineDevServer" factoryName="Local">
+      <server-settings />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UsingStringBuilder" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ThinkingInJava.chapter13.test01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.chapter13.test01.UsingStringBuilder" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="study0" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="NullTest" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ThinkingInJava.study.text0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.study.text0.NullTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="study0" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Image" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ThinkingInJava.study.text0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.study.text0.Image" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="study0" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="Application.UsingStringBuilder" />
+      <item index="1" class="java.lang.String" itemvalue="Application.NullTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Image" />
+      <item index="3" class="java.lang.String" itemvalue="Application.StringAna" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BigDecimalTest" />
+      <item index="5" class="java.lang.String" itemvalue="Application.SimpleProxyDemo" />
+      <item index="6" class="java.lang.String" itemvalue="Application.SimpleDynamicProxy" />
+      <item index="7" class="java.lang.String" itemvalue="Application.SnowRemovalRobot" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.SnowRemovalRobot" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SimpleDynamicProxy" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SimpleProxyDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BigDecimalTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.StringAna" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="590ef134-799b-40ac-9951-45c20262cf7e" name="Default" comment="" />
+      <created>1448967455138</created>
+      <updated>1448967455138</updated>
+    </task>
+    <task id="LOCAL-00001" summary="不知道什么玩意">
+      <created>1453780200974</created>
+      <updated>1453780200974</updated>
+    </task>
+    <task id="LOCAL-00002" summary="不知道什么玩意">
+      <created>1453788006470</created>
+      <updated>1453788006470</updated>
+    </task>
+    <task id="LOCAL-00003" summary="不知道什么玩意">
+      <created>1453790894832</created>
+      <updated>1453790894832</updated>
+    </task>
+    <task id="LOCAL-00004" summary="不知道什么玩意">
+      <created>1453791123402</created>
+      <updated>1453791123402</updated>
+    </task>
+    <task id="LOCAL-00005" summary="不知道什么玩意">
+      <created>1453803767971</created>
+      <updated>1453803767971</updated>
+    </task>
+    <task id="LOCAL-00006" summary="20160126company">
+      <created>1453860120235</created>
+      <updated>1453860120235</updated>
+    </task>
+    <task id="LOCAL-00007" summary="20160126company">
+      <created>1453893341898</created>
+      <updated>1453893341898</updated>
+    </task>
+    <task id="LOCAL-00008" summary="20160126company">
+      <created>1453893350524</created>
+      <updated>1453893350524</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295838" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3982002" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295838" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295838" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.6726659" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25053534" sideWeight="0.6704162" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35545558" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.6704162" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="20160126company" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="不知道什么玩意" />
+    <MESSAGE value="20160126company" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="study0" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="study0" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/example/pets/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="64" selection-start="218" selection-end="218" vertical-scroll-proportion="0.3539823" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/ForNameCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="85" selection-start="919" selection-end="919" vertical-scroll-proportion="0.679646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/study/text0/BigDecimalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="23" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.7345133" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter13/test01/Turtle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="23" selection-start="248" selection-end="248" vertical-scroll-proportion="0.57522124" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SimpleProxyDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="51" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.76637167" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SimpleDynamicProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="45" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.67948717" />
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="570" column="18" selection-start="22733" selection-end="22733" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SelectingMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="73" selection-start="648" selection-end="648" vertical-scroll-proportion="0.5058275">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="19" selection-start="270" selection-end="270" vertical-scroll-proportion="0.32051283">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/SnowRemovalRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="43" selection-start="1513" selection-end="1513" vertical-scroll-proportion="0.6212121">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/PetCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="44" selection-start="1651" selection-end="1651" vertical-scroll-proportion="0.5920746">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/example/ForNameCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="40" selection-start="298" selection-end="298" vertical-scroll-proportion="0.067599066">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="17" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/NullRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="30" selection-start="402" selection-end="402" vertical-scroll-proportion="0.61946905">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>study0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mybatis-3.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

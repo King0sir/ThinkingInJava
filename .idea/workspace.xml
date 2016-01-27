@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="590ef134-799b-40ac-9951-45c20262cf7e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test03/A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test03/packageaccess/HiddenC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test03/HiddenImplementation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test03/InterfaceViolation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/Null.java" afterPath="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/Null.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/NullRobot.java" afterPath="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/NullRobot.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="study0.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Sandwich.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448968875367" ignored="false" />
     <file path="/fragment.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1451543525089" ignored="false" />
-    <file path="/Dummy.txt" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453893348511" ignored="false" />
+    <file path="/Dummy.txt" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453907670609" ignored="false" />
     <file path="/Forg.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448971780762" ignored="false" />
     <file path="/ReferenceCounting.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448973127266" ignored="false" />
     <file path="/PolyConstructors.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1448974049652" ignored="false" />
@@ -461,7 +467,12 @@
     <file path="/Operation.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453872910178" ignored="false" />
     <file path="/Robot.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453873166630" ignored="false" />
     <file path="/SnowRemovalRobot.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453873546878" ignored="false" />
-    <file path="/NullRobot.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453874263261" ignored="false" />
+    <file path="/NullRobot.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453908121272" ignored="false" />
+    <file path="/Null.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453907775533" ignored="false" />
+    <file path="/A.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453909228963" ignored="false" />
+    <file path="/InterfaceViolation.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453909344067" ignored="false" />
+    <file path="/HiddenC.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453909612949" ignored="false" />
+    <file path="/HiddenImplementation.java" changelist="590ef134-799b-40ac-9951-45c20262cf7e" time="1453909875685" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -481,6 +492,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -517,7 +529,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -527,20 +538,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NullRobot.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/NullRobot.java">
+      <file leaf-file-name="HiddenImplementation.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test03/HiddenImplementation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="30" selection-start="402" selection-end="402" vertical-scroll-proportion="0.61946905">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Robot.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/Robot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="17" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="21" column="32" selection-start="618" selection-end="618" vertical-scroll-proportion="0.8174157">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -564,11 +568,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter13/test01/ArrayListDisplay.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/study/text0/StringAna.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter13/test01/Turtle.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/study/text0/BigDecimalTest.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/example/pets/Cat.java" />
         <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/ForNameCreator.java" />
         <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SimpleProxyDemo.java" />
         <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SimpleDynamicProxy.java" />
@@ -579,7 +578,12 @@
         <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/SnowRemovalRobot.java" />
         <option value="$PROJECT_DIR$/src/ThinkingInJava/example/ForNameCreator.java" />
         <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/PetCount.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/Null.java" />
         <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/NullRobot.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test03/A.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test03/InterfaceViolation.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test03/packageaccess/HiddenC.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/chapter14/test03/HiddenImplementation.java" />
       </list>
     </option>
   </component>
@@ -589,8 +593,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -615,6 +619,8 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
@@ -634,6 +640,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -714,6 +721,62 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="test03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="packageaccess" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="study0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkingInJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="test02" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -751,7 +814,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -769,14 +831,14 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="Downloaded.Files.Path" value="D:\MyWorkSpace\study0\lib" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -784,85 +846,7 @@
       <recent name="D:\MyWorkSpace\study0\src\ThinkingInJava\example\coffee" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SnowRemovalRobot">
-    <configuration default="false" name="StringAna" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ThinkingInJava.study.text0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.study.text0.StringAna" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="study0" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BigDecimalTest" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ThinkingInJava.study.text0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.study.text0.BigDecimalTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="study0" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SimpleProxyDemo" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ThinkingInJava.chapter14.text0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.chapter14.text0.SimpleProxyDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="study0" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.HiddenImplementation">
     <configuration default="false" name="SimpleDynamicProxy" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -911,15 +895,81 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.osmorc.OsgiConfigurationType" factoryName="OSGi Bundles" vmParameters="" programParameters="" includeAllBundlesInClassPath="false" workingDir="" useAlternativeJre="false" alternativeJrePath="" frameworkStartLevel="1" defaultStartLevel="5" generateWorkingDir="false">
-      <framework instance="" />
-      <additinalProperties startConsole="true" />
+    <configuration default="false" name="NullRobot" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ThinkingInJava.chapter14.test02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.chapter14.test02.NullRobot" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="study0" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="InterfaceViolation" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ThinkingInJava.chapter14.test03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.chapter14.test03.InterfaceViolation" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="study0" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HiddenImplementation" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ThinkingInJava.chapter14.test03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ThinkingInJava.chapter14.test03.HiddenImplementation" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="study0" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.osmorc.OsgiConfigurationType" factoryName="OSGi Bundles" vmParameters="" programParameters="" includeAllBundlesInClassPath="false" workingDir="" useAlternativeJre="false" alternativeJrePath="" frameworkStartLevel="1" defaultStartLevel="5" generateWorkingDir="false">
+      <framework instance="" />
+      <additinalProperties startConsole="true" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -955,25 +1005,12 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="GoogleAppEngineDevServer" factoryName="Local">
-      <server-settings />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method />
-    </configuration>
     <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" web_path="">
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+    <configuration default="true" type="GoogleAppEngineDevServer" factoryName="Local">
+      <server-settings />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -1002,6 +1039,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1138,19 +1188,19 @@
       <item index="0" class="java.lang.String" itemvalue="Application.UsingStringBuilder" />
       <item index="1" class="java.lang.String" itemvalue="Application.NullTest" />
       <item index="2" class="java.lang.String" itemvalue="Application.Image" />
-      <item index="3" class="java.lang.String" itemvalue="Application.StringAna" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BigDecimalTest" />
-      <item index="5" class="java.lang.String" itemvalue="Application.SimpleProxyDemo" />
-      <item index="6" class="java.lang.String" itemvalue="Application.SimpleDynamicProxy" />
-      <item index="7" class="java.lang.String" itemvalue="Application.SnowRemovalRobot" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SimpleDynamicProxy" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SnowRemovalRobot" />
+      <item index="5" class="java.lang.String" itemvalue="Application.NullRobot" />
+      <item index="6" class="java.lang.String" itemvalue="Application.InterfaceViolation" />
+      <item index="7" class="java.lang.String" itemvalue="Application.HiddenImplementation" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SnowRemovalRobot" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SimpleDynamicProxy" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SimpleProxyDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BigDecimalTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StringAna" />
+        <item index="0" class="java.lang.String" itemvalue="Application.HiddenImplementation" />
+        <item index="1" class="java.lang.String" itemvalue="Application.InterfaceViolation" />
+        <item index="2" class="java.lang.String" itemvalue="Application.NullRobot" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SnowRemovalRobot" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SimpleDynamicProxy" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1206,10 +1256,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295838" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328125" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1220,15 +1270,15 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295838" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.6726659" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25053534" sideWeight="0.6704162" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35545558" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25038052" sideWeight="0.671875" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35416666" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1316,26 +1366,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/example/pets/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="64" selection-start="218" selection-end="218" vertical-scroll-proportion="0.3539823" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/ForNameCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="85" selection-start="919" selection-end="919" vertical-scroll-proportion="0.679646" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/study/text0/BigDecimalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="23" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.7345133" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter13/test01/Turtle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="23" selection-start="248" selection-end="248" vertical-scroll-proportion="0.57522124" />
@@ -1354,11 +1384,6 @@
     <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SimpleDynamicProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="45" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.67948717" />
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="570" column="18" selection-start="22733" selection-end="22733" vertical-scroll-proportion="0.33333334" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/text0/SelectingMethods.java">
@@ -1402,17 +1427,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/Robot.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/NullRobot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="17" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
+        <state line="45" column="42" selection-start="1488" selection-end="1488" vertical-scroll-proportion="0.5376147">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/Null.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="23" selection-start="217" selection-end="217" vertical-scroll-proportion="0.41284403">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/NullRobot.java">
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test02/Robot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="30" selection-start="402" selection-end="402" vertical-scroll-proportion="0.61946905">
+        <state line="11" column="17" selection-start="237" selection-end="237" vertical-scroll-proportion="0.04587156">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test03/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="228" selection-end="228" vertical-scroll-proportion="0.4587156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test03/InterfaceViolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="49" selection-start="428" selection-end="428" vertical-scroll-proportion="0.35190615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test03/packageaccess/HiddenC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="44" selection-start="635" selection-end="635" vertical-scroll-proportion="0.86238533">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThinkingInJava/chapter14/test03/HiddenImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="32" selection-start="618" selection-end="618" vertical-scroll-proportion="0.8174157">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

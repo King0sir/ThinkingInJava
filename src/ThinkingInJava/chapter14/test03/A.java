@@ -1,11 +1,12 @@
-package ThinkingInJava.chapter14.test02;
+package ThinkingInJava.chapter14.test03;
 
 /**
  * Created with IntelliJ IDEA.
  * User: asus
- * Date: 16-1-26
- * Time: 下午11:08
+ * Date: 16-1-27
+ * Time: 下午11:40
  * To change this template use File | Settings | File Templates.
  */
-public interface Null {
+public interface A {
+    void f();
 }

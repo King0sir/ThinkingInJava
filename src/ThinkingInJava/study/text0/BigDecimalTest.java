@@ -24,6 +24,8 @@ public class BigDecimalTest {
         System.out.println(value.compareTo(new BigDecimal(3)));
         System.out.println(value.compareTo(new BigDecimal(2.15)));
         System.out.println(value.compareTo(new BigDecimal("2.15")));
+        System.out.println(new BigDecimal("215").compareTo(new BigDecimal(215l)));
+
 
 
 

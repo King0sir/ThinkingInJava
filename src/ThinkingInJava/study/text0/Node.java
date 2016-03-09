@@ -7,17 +7,19 @@ package ThinkingInJava.study.text0;
  * Time: 下午12:12
  * To change this template use File | Settings | File Templates.
  */
-public class Node {
+public class Node extends N {
     private int id ;
     private String data;
     private Node next;
 
     public Node(int id, String data) {
+        super("1");
         this.id = id;
         this.data = data;
     }
 
     public Node(int id, String data, Node next) {
+        super("2");
         this.id = id;
         this.data = data;
         this.next = next;

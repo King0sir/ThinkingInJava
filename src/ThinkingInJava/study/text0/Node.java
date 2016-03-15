@@ -12,6 +12,10 @@ public class Node extends N {
     private String data;
     private Node next;
 
+    public Node(String code) {
+        super(code);
+    }
+
     public Node(int id, String data) {
         super("1");
         this.id = id;

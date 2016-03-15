@@ -14,5 +14,9 @@ public class StringLength {
         System.out.println(three2one+"长度"+three2one.length());
         System.out.println(normal+"长度"+normal.length());
 
+        System.out.println(three2one.hashCode());
+        System.out.println(normal.hashCode());
+        System.out.println("9111010509557257XC".hashCode());
+
     }
 }

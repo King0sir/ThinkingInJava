@@ -18,6 +18,8 @@ public class IntegerValue {
 
         Integer a = new Integer(321654987);
         Integer b = new Integer(123456789);
+        Integer c = a+1;
+        System.out.println(c);
 
         System.out.println(a);
         System.out.println(b);
@@ -26,6 +28,7 @@ public class IntegerValue {
 
         System.out.println(valueFormat(2, 6));
         System.out.println(Integer.valueOf(valueFormat(2, 6)));
+
     }
 
     private static String valueFormat(int value, int length) {

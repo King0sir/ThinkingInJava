@@ -12,6 +12,13 @@ import java.util.regex.Pattern;
  */
 public class NullTest {
     public static void main(String[] args   ){
+        Integer A = 2;
+        Integer b = null;
+        if(A<b){
+            System.out.println("A<b");
+        }
+
+
         String a=null;
         if(a==null||a.length()==1){
         }
